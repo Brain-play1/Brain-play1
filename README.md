@@ -9,7 +9,7 @@ Estudante de Ciências da Computação na Universidade Paulista(Unip), formado n
 <p>
 <a align= "center" href="https://github.com/Brain-play1">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Brain-play1&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Brain-play1&count_private=true&theme=radical&show_icons=true" />
 
