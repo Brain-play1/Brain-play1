@@ -4,6 +4,8 @@
          width="45" />, sou Leonardo Basilio</h1>
 <h5 align="center">
 Estudante de Ciências da Computação na Universidade Paulista(Unip), formado no técnico de Desenvolvimento de Sistemas na ETEC de Hortolândia em 2021.
+         
+         Obs.: Ainda estou arrumando a tela de apresentação
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brain-play1&label=Profile%20views&color=0e75b6&style=flat" alt="Brain-play1" /> </p>
 <p>
